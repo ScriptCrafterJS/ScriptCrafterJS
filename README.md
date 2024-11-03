@@ -49,4 +49,5 @@ Frontend Developer
 
 ### Badges
 
+<b></b>
 <a href="http://www.github.com/ScriptCrafterJS"><img src="https://github-readme-stats.vercel.app/api?username=ScriptCrafterJS&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="ScriptCrafterJS's GitHub stats" /></a><a href="http://www.github.com/ScriptCrafterJS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ScriptCrafterJS&stroke=ffffff&background=1e3a8a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
