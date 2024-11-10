@@ -8,7 +8,7 @@ Frontend Developer
 
 *   🌍  I'm based in Palestine 🍉
 *   ✉️  You can contact me at [motasem.nabil.ali@gmail.com](mailto:motasem.nabil.ali@gmail.com)
-*   📄 Know about my experiences [Resume](https://drive.google.com/file/d/19BaJastbhzwHXlVNeY5FVwv4HDLuhfsS/view?usp=sharing)
+*   📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JM2eU8GQpZZPVNl2onDo8jMUGy3x2i8M/view?usp=sharing)
 *   ⚡  I love Reading Books 👀
 
 ### Skills
