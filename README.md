@@ -4,7 +4,7 @@ Hi 👋 My name is Motasem Ali
 Frontend Developer
 ------------------
 
-♟️I’m not an intelligent person, I’m a smart person
+I’m not that intelligent 🧠, but I’m smart ♟️ 
 
 *   🌍  I'm based in Palestine 🍉
 *   ✉️  You can contact me at [motasem.nabil.ali@gmail.com](mailto:motasem.nabil.ali@gmail.com)
