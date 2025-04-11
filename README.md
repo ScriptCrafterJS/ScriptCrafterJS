@@ -8,7 +8,7 @@ I’m not that intelligent 🧠, but I’m smart ♟️
 
 *   🌍  I'm based in Palestine 🍉
 *   ✉️  You can contact me at [motasem.nabil.ali@gmail.com](mailto:motasem.nabil.ali@gmail.com)
-*   📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AHoUU-NFiLjU92_p2hlN6GbwKp-BQg6Q/view?usp=sharing)
+*   📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aZXsZOiJEWDFFseiD10qPT2jzmUM26IA/view?usp=sharing)
 *   ⚡  I love Reading Books 👀
 
 ### Skills
