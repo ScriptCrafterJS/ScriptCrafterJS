@@ -1,7 +1,7 @@
 Hi 👋 My name is Motasem Ali
 ============================
 
-Frontend Developer
+Full Stack Web Developer
 ------------------
 
 I’m not that intelligent 🧠, but I’m smart ♟️ 
